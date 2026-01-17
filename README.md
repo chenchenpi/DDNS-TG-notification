@@ -3,7 +3,7 @@ wget https://raw.githubusercontent.com/wiznb/DDNS-TG-notification/refs/heads/mai
 ```
 
 ```
-curl https://raw.githubusercontent.com/chenchenpi/DDNS-TG-notification/blob/main/ip_detector.sh > /root/ip_detector.sh && chmod +x /root/ip_detector.sh && bash ip_detector.sh
+curl https://raw.githubusercontent.com/chenchenpi/DDNS-TG-notification/main/ipwatch.sh > /root/ipwatch.sh && chmod +x /root/ipwatch.sh && bash ipwatch.sh
 ```
 
 
