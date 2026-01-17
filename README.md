@@ -55,10 +55,13 @@ bash /root/ddns.sh --install-cron
 
 
 ipwatch执行脚本
+
 1）交互配置 Telegram + 监控项
+
 bash /root/ipwatch.sh --tg-config
 
 2）测试 Telegram 是否正常
+
 bash /root/ipwatch.sh --telegram-test
 
 3）手动跑一次检测
