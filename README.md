@@ -2,6 +2,9 @@
 wget https://raw.githubusercontent.com/wiznb/DDNS-TG-notification/refs/heads/main/ddns.sh && chmod +x /root/ddns.sh && bash ddns.sh
 ```
 
+```
+curl https://raw.githubusercontent.com/chenchenpi/DDNS-TG-notification/blob/main/ip_detector.sh > /root/ip_detector.sh && chmod +x /root/ip_detector.sh && bash ip_detector.sh
+```
 
 
 ✅ 失败日志：/root/ddns/run_YYYY-MM-DD.log（北京时间、每天一个、只记失败、最多保留 3 天，第 4 天删最早）
