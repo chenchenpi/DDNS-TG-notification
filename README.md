@@ -1,5 +1,5 @@
 ```
-wget https://raw.githubusercontent.com/wiznb/DDNS-TG-notification/refs/heads/main/ddns.sh && chmod +x /root/ddns.sh && bash ddns.sh
+curl https://raw.githubusercontent.com/chenchenpi/DDNS-TG-notification/main/ddns.sh && chmod +x /root/ddns.sh && bash ddns.sh
 ```
 
 ```
